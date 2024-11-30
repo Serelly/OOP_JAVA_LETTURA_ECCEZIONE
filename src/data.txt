@@ -1,0 +1,4 @@
+riga1,colonna1,esercitazione1
+riga2,colonna2,esercitazione2
+rigaerrata,$,esercitazione3
+riga3,colonna3,esercitazione3
